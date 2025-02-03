@@ -1,7 +1,7 @@
 # PMfG_Exam
-Python, Matlab for Geoscience Exam repository
+*Python, Matlab for Geoscience Exam repository*
 
 Team:
-Katarzyna Zabdyrska
-Paulina Kępa
-Jakub Niemiec
+- Katarzyna Zabdyrska
+- Paulina Kępa
+- Jakub Niemiec
