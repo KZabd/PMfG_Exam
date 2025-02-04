@@ -25,7 +25,7 @@ Link to the code: https://github.com/KZabd/PMfG_Exam/blob/main/exam-pk1
 ![475328823_1572135816776796_2248693310029245156_n](https://github.com/user-attachments/assets/f63c8568-041b-4e9c-a8eb-fd289b62712a)
 
 **Octave**
-In this code, I loaded temperature and NDVI data from TIFF files.I then displayed images for temperature, NDVI and their difference. I created histograms for temperature and NDVI and a scatter plot showing the relationship between these variables. All this for the period July-August 2023. Link to the code:
+In this code, I loaded temperature and NDVI data from TIFF files.I then displayed images for temperature, NDVI and their difference. I created histograms for temperature and NDVI and a scatter plot showing the relationship between these variables. All this for the period July-August 2023. Link to the code: https://github.com/KZabd/PMfG_Exam/blob/main/pktask1.m
 
 **My results:**
 
