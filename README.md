@@ -12,7 +12,33 @@ The task was to analyze the correlation between temperature and vegetation index
 
 ### KATARZYNA ZABDYRSKA
 
-![]https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f1mat.PNG
+The data used: t5_lst2023_Jun_Aug.tif, t5_lst2024May.tif, t5_ndvi2024_Jul_Aug.tif, t5_ndvi2024May.tif 
+
+**Python**
+Temperature image read:
+![t1f1pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f1pyt.PNG)
+![t1f4pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f4pyt.PNG)
+
+Histogram:
+![t1f2pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f2pyt.PNG)
+![t1f5pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f5pyt.PNG)
+
+Scatter plot:
+
+![t1f3pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f3pyt.PNG)
+
+Scatter plot of May 2024:
+
+![t1f6pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f6pyt.PNG)
+
+**Octave**
+
+![t1f1mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f1mat.PNG)
+![t1f2mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f2mat.PNG)
+![t1f3mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f3mat.PNG)
+![t1f4mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f4mat.PNG)
+![t1f5mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f5mat.PNG)
+
 
 
 ### PAULINA KĘPA
