@@ -106,5 +106,6 @@ In this task, I analyze the differences between a Digital Elevation Model (DEM) 
 ![Zrzut ekranu 2025-02-4 o 11 22 53](https://github.com/user-attachments/assets/feed4e9a-f84d-419d-b40d-c8285ab0143c)
 
 
-
+### PAULINA KĘPA
+Link: https://github.com/KZabd/PMfG_Exam/blob/main/Paulina-Kepa-exam/exam-kepa-task2-python.py
 
