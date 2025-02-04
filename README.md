@@ -101,6 +101,8 @@ Results MatLab
 ## RESULTS OF TASK 2
 ### PATRYK SUSZ
 The Result:
+In this task, I analyze the differences between a Digital Elevation Model (DEM) and a point cloud dataset. The goal is to assess elevation discrepancies and evaluate accuracy.This analysis helps evaluate the DEM’s precision and potential biases compared to the point cloud data.
+
 ![Zrzut ekranu 2025-02-4 o 11 22 53](https://github.com/user-attachments/assets/feed4e9a-f84d-419d-b40d-c8285ab0143c)
 
 
