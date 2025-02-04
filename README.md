@@ -41,7 +41,15 @@ In this code, I loaded temperature and NDVI data from TIFF files.I then displaye
 
 
 ### JAKUB NIEMIEC
-
+Matlab
+2023
+![untitled2](https://github.com/user-attachments/assets/4f86795b-08e4-4b9d-ae98-0bc83f355eb6)
+![untitled](https://github.com/user-attachments/assets/1a64f199-3910-4242-85eb-20e5b1344588)
+![untitled1](https://github.com/user-attachments/assets/751347ef-a9cd-4176-b6b7-a7fee35fd4e4)
+2024
+![untitled4](https://github.com/user-attachments/assets/61e46646-b8c4-43a5-b83a-800f1ecea00a)
+![untitled5](https://github.com/user-attachments/assets/4b04ec47-7274-4be3-a8ac-9eef2f305dee)
+![untitled3](https://github.com/user-attachments/assets/7795305d-1847-4d3e-a660-7704faf29136)
 ### PATRYK SUSZ
 Exercise 1 : Results PY
 
