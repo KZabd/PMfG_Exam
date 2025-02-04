@@ -131,6 +131,20 @@ Results MatLab
 ![Scatterplot_ML](https://github.com/user-attachments/assets/51c902ce-e3a7-4331-a4a4-d553d01d09d3)
 
 ## RESULTS OF TASK 2
+
+### KATARZYNA ZABDYRSKA
+
+I used Python code to read the DEM and cloudpoint. Then I sampled the cloud point and extracted the elevation from the DEM. Next I calculated the differences between the DEM elevation and the cloudpoint Z coordinate for each point - delta H. Next I calculated the mean error, root mean square error, mean absolute error and standard deviation.
+
+![task2](https://github.com/user-attachments/assets/58a126dd-247f-40c0-991b-972588fa4141)
+
+Accuracy Metrics:
+Mean Error (ME): 1.685
+RMSE: 5.070
+MAE: 1.701
+Standard Deviation: 4.782
+
+
 ### PATRYK SUSZ
 The Result:
 In this task, I analyze the differences between a Digital Elevation Model (DEM) and a point cloud dataset. The goal is to assess elevation discrepancies and evaluate accuracy.This analysis helps evaluate the DEM’s precision and potential biases compared to the point cloud data.
