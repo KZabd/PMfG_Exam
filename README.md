@@ -60,7 +60,8 @@ Results MatLab
 
 ![Scatterplot_ML](https://github.com/user-attachments/assets/51c902ce-e3a7-4331-a4a4-d553d01d09d3)
 
-Exercise 2 :
+## RESULTS OF TASK 2
+### PATRYK SUSZ
 
 ![Ex2_py](https://github.com/user-attachments/assets/55e1f7bf-eb93-43cb-86c9-8aa607c4e497)
 
