@@ -28,4 +28,31 @@ Link to the code:
 
 
 ### JAKUB NIEMIEC
+
 ### PATRYK SUSZ
+Exercise 1 : Results PY
+
+![Ex1_py](https://github.com/user-attachments/assets/3be2c09b-6ca3-4208-bab6-6a4bcc2eeb2f)
+
+![3 imagesPY](https://github.com/user-attachments/assets/25c3f78f-c99e-4253-96ce-92333ee254ed)
+
+![histogramPY](https://github.com/user-attachments/assets/a80bee2e-0290-4816-bd4d-bb0ebe62830c)
+
+![scatterplotPY](https://github.com/user-attachments/assets/1bbad3b6-59e8-4a51-8b66-a759bf5dc200)
+
+Results MatLab
+
+![Ex1_ML](https://github.com/user-attachments/assets/49f68a65-950f-4d06-8870-6c39adf2241a)
+
+![3 images ML](https://github.com/user-attachments/assets/142c92c3-1ce5-4a85-b41c-601dcad62d0a)
+
+![Histogram_ML](https://github.com/user-attachments/assets/298310df-e407-4ca9-b0dc-0a2ccfa6148f)
+
+![Scatterplot_ML](https://github.com/user-attachments/assets/51c902ce-e3a7-4331-a4a4-d553d01d09d3)
+
+Exercise 2 :
+
+![Ex2_py](https://github.com/user-attachments/assets/55e1f7bf-eb93-43cb-86c9-8aa607c4e497)
+
+
+
