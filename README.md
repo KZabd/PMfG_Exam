@@ -15,30 +15,36 @@ The task was to analyze the correlation between temperature and vegetation index
 The data used: t5_lst2023_Jun_Aug.tif, t5_lst2024May.tif, t5_ndvi2024_Jul_Aug.tif, t5_ndvi2024May.tif 
 
 **Python**
-Temperature image read:
-![t1f1pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f1pyt.PNG)
-![t1f4pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f4pyt.PNG)
 
-Histogram:
-![t1f2pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f2pyt.PNG)
-![t1f5pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f5pyt.PNG)
+The Python code was utilised to open the input images, display the images, and to create a differential between the land surface temperature images and the NDVI images. The next stage of the process involved the display of histograms for all four of the input images.The subsequent stage of the process involved the creation of two scatterplots, the X-axis of which was the NDVI data and the Y-axis of which was the corresponding LST data.
+
+Land Surface Temperature, NDVI and differences:
+
+![pyim](https://github.com/user-attachments/assets/3e280342-aa76-4059-bfbe-efee3d2d8d0a)
+
+Histograms:
+
+![pyhist](https://github.com/user-attachments/assets/40972139-9f88-430b-ac88-157080214a46)
 
 Scatter plot:
 
-![t1f3pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f3pyt.PNG)
+![pyscat](https://github.com/user-attachments/assets/9f124dff-f769-4ec8-8acd-c9bb463effab)
 
-Scatter plot of May 2024:
-
-![t1f6pyt](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f6pyt.PNG)
 
 **Octave**
 
-![t1f1mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f1mat.PNG)
-![t1f2mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f2mat.PNG)
-![t1f3mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f3mat.PNG)
-![t1f4mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f4mat.PNG)
-![t1f5mat](https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f5mat.PNG)
+The Octave software was used to perform the same operations as the Python code. Land surface temperature images opened incorrectly. My guess is that this is because they are float64 data type.
 
+Land Surface Temperature, NDVI and differences:
+
+![maim](https://github.com/user-attachments/assets/43b4a8b2-28de-4dbb-ba36-e575836b0b00)
+
+Histograms:
+
+![mahist](https://github.com/user-attachments/assets/7c29dc2c-d30d-4ecf-be29-d333eb570f4c)
+
+Scatter plot:
+![mascat](https://github.com/user-attachments/assets/d5c85c78-2764-4105-860a-72e34de4b96a)
 
 
 ### PAULINA KĘPA
