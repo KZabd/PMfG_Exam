@@ -1,64 +1,81 @@
+clc; clear;
 
-data_dir = "C:/Users/user/Studia_RSG/S2/Python_Matlab_for_Geoscience/Exam/";
-temp_files = {"t5_lst2023_Jun_Aug.tif", "t5_lst2024May.tif"};
-ndvi_files = {"t5_lst2023_Jun_Aug.tif", "t5_ndvi2024May.tif"};
+temp1 = imread('/Users/user/Studia_RSG/S2/Python_Matlab_for_Geoscience/Exam/t5_lst2023_Jun_Aug.tif');
+temp2 = imread('/Users/user/Studia_RSG/S2/Python_Matlab_for_Geoscience/Exam/t5_lst2024May.tif');
+ndvi1 = imread('/Users/user/Studia_RSG/S2/Python_Matlab_for_Geoscience/Exam/t5_ndvi2024_Jul_Aug.tif');
+ndvi2 = imread('/Users/user/Studia_RSG/S2/Python_Matlab_for_Geoscience/Exam/t5_ndvi2024May.tif');
 
-temp_data1 = imread(fullfile(data_dir, temp_files{1}));
-temp_data2 = imread(fullfile(data_dir, temp_files{2}));
-ndvi_data1 = imread(fullfile(data_dir, ndvi_files{1}));
-ndvi_data2 = imread(fullfile(data_dir, ndvi_files{2}));
+% Convert images to double precision for calculations (if not already)
+temp1 = double(temp1);
+ndvi1 = double(ndvi1);
+temp2 = double(temp2);
+ndvi2 = double(ndvi2);
 
-function display_images(temp_data, ndvi_data, title_str)
-    figure;
-    subplot(1,3,1);
-    imagesc(temp_data);
-    colormap(spring);
-    colorbar;
-    title(['Temperature ', title_str]);
+%% Display the images and their differences
 
-    subplot(1,3,2);
-    imagesc(ndvi_data);
-    colormap(spring);
-    colorbar;
-    title(['NDVI ', title_str]);
+figure;
+colormap(spring);
+% Display original images and differences in a 2x3 grid
+subplot(3,2,1);
+imagesc(temp1);
+axis image; title('Land Surface Temperature Jun-Aug 2023');
 
-    subplot(1,3,3);
-    imagesc(temp_data - ndvi_data);  % Różnica temperatury i NDVI
-    colormap('jet');
-    colorbar;
-    title(['Difference (Temp - NDVI) ', title_str]);
-end
+subplot(3,2,2);
+imagesc(ndvi1);
+axis image; title('NDVI Jul-Aug 2024');
 
-function display_histograms(temp_data, ndvi_data, title_str)
-    figure;
-    subplot(1,2,1);
-    hist(temp_data(:), 50);  % W Octave zamiast 'histogram' używamy 'hist'
-    title(['Temperature Histogram ', title_str]);
-    xlabel('Temperature');
-    ylabel('Frequency');
+subplot(3,2,3);
+imagesc(temp2);
+axis image; title('Land Surface Temperature May 2024');
 
-    subplot(1,2,2);
-    hist(ndvi_data(:), 50);  % W Octave zamiast 'histogram' używamy 'hist'
-    title(['NDVI Histogram ', title_str]);
-    xlabel('NDVI');
-    ylabel('Frequency');
-end
+subplot(3,2,4);
+imagesc(ndvi2);
+axis image; title('NDVI May 2024');
 
-function display_scatter_plot(ndvi_data, temp_data, title_str)
-    figure;
-    scatter(ndvi_data(:), temp_data(:), 10, 'b', 'filled');
-    xlabel('NDVI');
-    ylabel('Temperature');
-    title(['Scatter Plot: NDVI vs Temperature ', title_str]);
-    grid on;
-end
+subplot(3,2,5);
+imagesc(temp2 - temp1);
+axis image; title('Land Surface Temperature difference');
 
-display_images(temp_data1, ndvi_data1, 'Jun-Aug 2023');
-display_histograms(temp_data1, ndvi_data1, 'Jun-Aug 2023');
-display_scatter_plot(ndvi_data1, temp_data1, 'Jun-Aug 2023');
+subplot(3,2,6);
+imagesc(ndvi2 - ndvi1);
+axis image; title('NDVI difference');
 
-display_images(temp_data2, ndvi_data2, 'May 2024');
-display_histograms(temp_data2, ndvi_data2, 'May 2024');
-display_scatter_plot(ndvi_data2, temp_data2, 'May 2024');
+%% Show histograms for each image
 
+figure;
+subplot(2,2,1);
+hist(temp1(:), 50); % using 50 bins
+xlabel('Value'); ylabel('Frequency');
+title('Histogram of Land Surface Temperature Jun-Aug 2023');
 
+subplot(2,2,2);
+hist(ndvi1(:), 50);
+xlabel('Value'); ylabel('Frequency');
+title('Histogram of NDVI Jul-Aug 2024');
+
+subplot(2,2,3);
+hist(temp2(:), 50);
+xlabel('Value'); ylabel('Frequency');
+title('Histogram of Land Surface Temperature May 2024');
+
+subplot(2,2,4);
+hist(ndvi2(:), 50);
+xlabel('Value'); ylabel('Frequency');
+title('Histogram of NDVI May 2024');
+
+%% Scatterplots
+% For scatter plots, we flatten the images into vectors
+
+% Scatter Plot 1: temp1 (x) vs ndvi1 (y)
+figure;
+scatter(temp1(:), ndvi1(:), 10, 'filled'); % marker size 10, filled circles
+xlabel('Temperature');
+ylabel('NDVI');
+title('NDVI to Temperature Jun-Aug 2023');
+
+% Scatter Plot 2: temp2 (x) vs ndvi2 (y)
+figure;
+scatter(temp2(:), ndvi2(:), 10, 'filled');
+xlabel('Temperature');
+ylabel('NDVI');
+title('NDVI to Temperature May 2024');
