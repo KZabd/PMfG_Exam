@@ -44,7 +44,19 @@ In this code, I loaded temperature and NDVI data from TIFF files.I then displaye
 
 
 ### JAKUB NIEMIEC
+
+Task 1 was completely done in MatLab and partially in Python. The NDVI and LST was shown and the histograms for the all 4 raster was calculated. Unfortunately, I didn't manage to do Python part completely, due to the problems with the rasterio, caused probably by the computer. Only the LST and NDVI from 2023 was evaluated.
+
+
+Python
+
+![475301823_932573358942718_7545075661727662486_n (2)](https://github.com/user-attachments/assets/e6bd0807-9623-4787-9085-d8e0239c6ac8)
+![474877261_1816487249146746_4865969536873401495_n (2)](https://github.com/user-attachments/assets/a06cfe0b-87ff-420f-96bb-b31d20b184d8)
+![475328823_1572135816776796_2248693310029245156_n (2)](https://github.com/user-attachments/assets/bf08bf0b-f780-43bc-bd98-9757fbd46d45)
+
+
 Matlab
+
 2023
 ![untitled2](https://github.com/user-attachments/assets/4f86795b-08e4-4b9d-ae98-0bc83f355eb6)
 ![untitled](https://github.com/user-attachments/assets/1a64f199-3910-4242-85eb-20e5b1344588)
@@ -53,6 +65,7 @@ Matlab
 ![untitled4](https://github.com/user-attachments/assets/61e46646-b8c4-43a5-b83a-800f1ecea00a)
 ![untitled5](https://github.com/user-attachments/assets/4b04ec47-7274-4be3-a8ac-9eef2f305dee)
 ![untitled3](https://github.com/user-attachments/assets/7795305d-1847-4d3e-a660-7704faf29136)
+
 ### PATRYK SUSZ
 Exercise 1 : 
 The objective was to investigate the correlation between temperature and the vegetation index (NDVI) by analyzing data from the files "temp1," "ndvi1," "temp2," and "ndvi2." The analysis followed a structured approach, including displaying three images with predefined color palettes, generating two histograms for each data pair, and creating a scatter plot to illustrate the relationship between NDVI and temperature. The study was conducted using both Python and MATLAB/Octave, allowing for a comparison of results between the two computational environments. The result of it , is that the python code didnt show the combined part as matlab but other plots are similar
