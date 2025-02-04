@@ -139,10 +139,10 @@ I used Python code to read the DEM and cloudpoint. Then I sampled the cloud poin
 ![task2](https://github.com/user-attachments/assets/58a126dd-247f-40c0-991b-972588fa4141)
 
 Accuracy Metrics:
-Mean Error (ME): 1.685
-RMSE: 5.070
-MAE: 1.701
-Standard Deviation: 4.782
+- Mean Error (ME): 2.230
+- RMSE: 6.549
+- MAE: 2.249
+- Standard Deviation: 6.158
 
 
 ### PATRYK SUSZ
