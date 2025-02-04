@@ -25,7 +25,7 @@ Link to the code: https://github.com/KZabd/PMfG_Exam/blob/main/exam-pk1
 ![474877261_1816487249146746_4865969536873401495_n](https://github.com/user-attachments/assets/a4f9d29b-bd8b-4507-869e-28790648fe03)
 ![475328823_1572135816776796_2248693310029245156_n](https://github.com/user-attachments/assets/f63c8568-041b-4e9c-a8eb-fd289b62712a)
 
-Unfortunatelly I lost a lot of time because there is some problems with rasterio lib :((
+Unfortunatelly I lost a lot of time because there is some problems with rasterio lib :(( but Im sure that I have it on my computer
 ![image](https://github.com/user-attachments/assets/91e90045-dc00-4419-a8e2-986daea95205)
 
 **Octave**
