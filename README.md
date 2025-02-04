@@ -38,6 +38,9 @@ In this code, I loaded temperature and NDVI data from TIFF files.I then displaye
 ![FIG2](https://github.com/user-attachments/assets/ec20a0ec-3232-4ff4-9e1c-00887b2e3824)
 ![FIG3](https://github.com/user-attachments/assets/fabefdd1-b89f-47dc-a613-bf17fbc63762)
 ![FIG4](https://github.com/user-attachments/assets/03e85bd0-726c-4443-8da6-2a8fcfbd2b72)
+![Zrzut ekranu 2025-02-04 111041](https://github.com/user-attachments/assets/c2e57675-5baa-46c8-9579-06855950ac39)
+![Zrzut ekranu 2025-02-04 111122](https://github.com/user-attachments/assets/a5d457bc-e235-46ba-9608-1960bdcb520f)
+
 
 
 ### JAKUB NIEMIEC
