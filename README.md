@@ -12,6 +12,9 @@ The task was to analyze the correlation between temperature and vegetation index
 
 ### KATARZYNA ZABDYRSKA
 
+https://github.com/KZabd/PMfG_Exam/blob/main/KZt1/t1f1mat.PNG
+
+
 ### PAULINA KĘPA
 
 **Python**
