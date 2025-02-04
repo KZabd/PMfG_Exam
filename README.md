@@ -52,6 +52,7 @@ Matlab
 ![untitled3](https://github.com/user-attachments/assets/7795305d-1847-4d3e-a660-7704faf29136)
 ### PATRYK SUSZ
 Exercise 1 : Results PY
+The objective was to investigate the correlation between temperature and the vegetation index (NDVI) by analyzing data from the files "temp1," "ndvi1," "temp2," and "ndvi2." The analysis followed a structured approach, including displaying three images with predefined color palettes, generating two histograms for each data pair, and creating a scatter plot to illustrate the relationship between NDVI and temperature. The study was conducted using both Python and MATLAB/Octave, allowing for a comparison of results between the two computational environments. The result of it , is that the python code didnt show the combined part as matlab but other plots are similar
 
 ![Ex1_py](https://github.com/user-attachments/assets/3be2c09b-6ca3-4208-bab6-6a4bcc2eeb2f)
 
@@ -73,7 +74,7 @@ Results MatLab
 
 ## RESULTS OF TASK 2
 ### PATRYK SUSZ
-
+Here is the code for task 2 , unfortunetly , it had some errors with libraries so i didnt had a time to end it
 ![Ex2_py](https://github.com/user-attachments/assets/55e1f7bf-eb93-43cb-86c9-8aa607c4e497)
 
 
