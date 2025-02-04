@@ -93,7 +93,7 @@ Results MatLab
 
 ## RESULTS OF TASK 2
 ### PATRYK SUSZ
-
+The Result:
 ![Zrzut ekranu 2025-02-4 o 11 22 53](https://github.com/user-attachments/assets/feed4e9a-f84d-419d-b40d-c8285ab0143c)
 
 
