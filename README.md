@@ -26,6 +26,9 @@ Link to the code:
 
 **Octave**
 In this code, I loaded temperature and NDVI data from TIFF files.I then displayed images for temperature, NDVI and their difference. I created histograms for temperature and NDVI and a scatter plot showing the relationship between these variables. All this for the period July-August 2023. Link to the code:
+
+**My results:**
+
 ![FIG1](https://github.com/user-attachments/assets/737e6150-872c-4efe-8892-a22af3358527)
 ![FIG2](https://github.com/user-attachments/assets/ec20a0ec-3232-4ff4-9e1c-00887b2e3824)
 ![FIG3](https://github.com/user-attachments/assets/fabefdd1-b89f-47dc-a613-bf17fbc63762)
