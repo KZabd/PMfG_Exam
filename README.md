@@ -58,11 +58,7 @@ Results PY
 
 ![Ex1_py](https://github.com/user-attachments/assets/3be2c09b-6ca3-4208-bab6-6a4bcc2eeb2f)
 
-![3 imagesPY](https://github.com/user-attachments/assets/25c3f78f-c99e-4253-96ce-92333ee254ed)
 
-![histogramPY](https://github.com/user-attachments/assets/a80bee2e-0290-4816-bd4d-bb0ebe62830c)
-
-![scatterplotPY](https://github.com/user-attachments/assets/1bbad3b6-59e8-4a51-8b66-a759bf5dc200)
 
 Results MatLab
 
@@ -78,6 +74,13 @@ Results MatLab
 ### PATRYK SUSZ
 Here is the code for task 2 , unfortunetly , it had some errors with libraries so i didnt had a time to end it
 ![Ex2_py](https://github.com/user-attachments/assets/55e1f7bf-eb93-43cb-86c9-8aa607c4e497)
+
+![Zrzut ekranu 2025-02-4 o 11 10 48](https://github.com/user-attachments/assets/867a32b8-e89a-4392-b46e-888274c6fc54)
+
+![Zrzut ekranu 2025-02-4 o 11 10 28](https://github.com/user-attachments/assets/e6352754-3c3e-4c0b-98a3-0b03696d4132)
+
+![Zrzut ekranu 2025-02-4 o 11 10 15](https://github.com/user-attachments/assets/c5bc1b51-04dd-40e0-a628-af2fe9ab549d)
+
 
 
 
