@@ -24,5 +24,8 @@ Link to the code:
 ![474877261_1816487249146746_4865969536873401495_n](https://github.com/user-attachments/assets/a4f9d29b-bd8b-4507-869e-28790648fe03)
 ![475328823_1572135816776796_2248693310029245156_n](https://github.com/user-attachments/assets/f63c8568-041b-4e9c-a8eb-fd289b62712a)
 
+**Octave**
+
+
 ### JAKUB NIEMIEC
 ### PATRYK SUSZ
