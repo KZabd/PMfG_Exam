@@ -138,5 +138,5 @@ Link: https://github.com/KZabd/PMfG_Exam/blob/main/Paulina-Kepa-exam/exam-kepa-t
 ### JAKUB NIEMIEC
 
 Results: <img width="923" alt="exercise2_res" src="https://github.com/user-attachments/assets/de1534d1-fd42-4573-80b3-0b7ddb34012a" />
-Code: 
+Code: https://github.com/KZabd/PMfG_Exam/blob/main/Niemiec_exam/Niemiec_exercise2.py
 
