@@ -16,7 +16,7 @@ The task was to analyze the correlation between temperature and vegetation index
 
 **Python**
 In the code, I loaded data from TIFF files (temperature and NDVI) for two periods.Then, for each data set, I displayed the images (NDVI, temperature, difference), created histograms for temperature and NDVI, and made a scatter plot showing the relationship between NDVI and temperature.
-Link to the code:
+Link to the code: https://github.com/KZabd/PMfG_Exam/blob/main/exam-pk1 
 
 **My results:**
 
