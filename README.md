@@ -93,10 +93,8 @@ Results MatLab
 
 ## RESULTS OF TASK 2
 ### PATRYK SUSZ
-Here is the code for task 2 , unfortunetly , it had some errors with libraries so i didnt had a time to end it
-![Ex2_py](https://github.com/user-attachments/assets/55e1f7bf-eb93-43cb-86c9-8aa607c4e497)
 
-
+![Zrzut ekranu 2025-02-4 o 11 22 53](https://github.com/user-attachments/assets/feed4e9a-f84d-419d-b40d-c8285ab0143c)
 
 
 
